@@ -1,6 +1,13 @@
 server:
   port: 8080
+  shutdown: graceful
+spring:
+  autoconfigure:
+    exclude:
+  lifecycle:
+    timeout-per-shutdown-phase: 1h
 custom:
   site:
-    name: "My site dev"
+    name: "My Site Prod"
 
+    redis :

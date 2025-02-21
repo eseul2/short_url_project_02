@@ -1,4 +1,7 @@
+spring:
+  output:
+    ansi:
+      enabled: always
 custom:
   site:
-    name: "My dev"
-
+    name: "My Site Dev"
