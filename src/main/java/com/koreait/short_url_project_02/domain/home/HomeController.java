@@ -14,7 +14,7 @@ public class HomeController {
     @GetMapping("/")
     @ResponseBody
     public String home() {
-        return "Main Page";
+        return "Main Page 제발 띄워줄래??";
     }
 
 }
