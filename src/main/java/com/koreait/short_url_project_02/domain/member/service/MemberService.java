@@ -1,7 +1,7 @@
-package com.koreait.short_url_project_02.domain.member.member.service;
+package com.koreait.short_url_project_02.domain.member.service;
 
-import com.koreait.short_url_project_02.domain.member.member.entity.Member;
-import com.koreait.short_url_project_02.domain.member.member.repository.MemberRepository;
+import com.koreait.short_url_project_02.domain.member.entity.Member;
+import com.koreait.short_url_project_02.domain.member.repository.MemberRepository;
 import com.koreait.short_url_project_02.global.exceptions.GlobalException;
 import com.koreait.short_url_project_02.global.rsData.RsData;
 import lombok.RequiredArgsConstructor;

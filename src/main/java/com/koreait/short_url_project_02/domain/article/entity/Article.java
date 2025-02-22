@@ -1,6 +1,6 @@
-package com.koreait.short_url_project_02.domain.article.article.entity;
+package com.koreait.short_url_project_02.domain.article.entity;
 
-import com.koreait.short_url_project_02.domain.member.member.entity.Member;
+import com.koreait.short_url_project_02.domain.member.entity.Member;
 import com.koreait.short_url_project_02.global.jpa.entity.BaseTime;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

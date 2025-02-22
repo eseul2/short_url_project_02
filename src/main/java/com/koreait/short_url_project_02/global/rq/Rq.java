@@ -1,7 +1,7 @@
-package com.koreait.short_url_project_02.global.rq.Rq;
+package com.koreait.short_url_project_02.global.rq;
 
-import com.koreait.short_url_project_02.domain.member.member.entity.Member;
-import com.koreait.short_url_project_02.domain.member.member.service.MemberService;
+import com.koreait.short_url_project_02.domain.member.entity.Member;
+import com.koreait.short_url_project_02.domain.member.service.MemberService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 import org.springframework.web.context.annotation.RequestScope;

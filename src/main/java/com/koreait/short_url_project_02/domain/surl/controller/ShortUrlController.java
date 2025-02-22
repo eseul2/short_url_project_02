@@ -1,10 +1,10 @@
-package com.koreait.short_url_project_02.domain.surl.surl.controller;
+package com.koreait.short_url_project_02.domain.surl.controller;
 
-import com.koreait.short_url_project_02.domain.member.member.entity.Member;
-import com.koreait.short_url_project_02.domain.surl.surl.entity.Surl;
-import com.koreait.short_url_project_02.domain.surl.surl.service.SurlService;
+import com.koreait.short_url_project_02.domain.member.entity.Member;
+import com.koreait.short_url_project_02.domain.surl.entity.Surl;
+import com.koreait.short_url_project_02.domain.surl.service.SurlService;
 import com.koreait.short_url_project_02.global.exceptions.GlobalException;
-import com.koreait.short_url_project_02.global.rq.Rq.Rq;
+import com.koreait.short_url_project_02.global.rq.Rq;
 import com.koreait.short_url_project_02.global.rsData.RsData;
 import jakarta.servlet.http.HttpServletRequest;
 import lombok.RequiredArgsConstructor;

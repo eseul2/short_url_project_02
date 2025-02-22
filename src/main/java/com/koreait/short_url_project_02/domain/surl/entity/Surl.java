@@ -1,7 +1,7 @@
-package com.koreait.short_url_project_02.domain.surl.surl.entity;
+package com.koreait.short_url_project_02.domain.surl.entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.koreait.short_url_project_02.domain.member.member.entity.Member;
+import com.koreait.short_url_project_02.domain.member.entity.Member;
 import com.koreait.short_url_project_02.global.jpa.entity.BaseTime;
 import jakarta.persistence.Entity;
 import jakarta.persistence.ManyToOne;

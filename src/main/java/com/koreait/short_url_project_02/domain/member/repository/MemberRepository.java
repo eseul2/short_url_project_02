@@ -1,6 +1,6 @@
-package com.koreait.short_url_project_02.domain.member.member.repository;
+package com.koreait.short_url_project_02.domain.member.repository;
 
-import com.koreait.short_url_project_02.domain.member.member.entity.Member;
+import com.koreait.short_url_project_02.domain.member.entity.Member;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

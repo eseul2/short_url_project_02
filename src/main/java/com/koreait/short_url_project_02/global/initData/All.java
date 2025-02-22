@@ -1,7 +1,7 @@
 package com.koreait.short_url_project_02.global.initData;
 
-import com.koreait.short_url_project_02.domain.member.member.entity.Member;
-import com.koreait.short_url_project_02.domain.member.member.service.MemberService;
+import com.koreait.short_url_project_02.domain.member.entity.Member;
+import com.koreait.short_url_project_02.domain.member.service.MemberService;
 import jakarta.transaction.Transactional;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

@@ -1,8 +1,8 @@
-package com.koreait.short_url_project_02.domain.surl.surl.service;
+package com.koreait.short_url_project_02.domain.surl.service;
 
-import com.koreait.short_url_project_02.domain.member.member.entity.Member;
-import com.koreait.short_url_project_02.domain.surl.surl.entity.Surl;
-import com.koreait.short_url_project_02.domain.surl.surl.repository.SurlRepository;
+import com.koreait.short_url_project_02.domain.member.entity.Member;
+import com.koreait.short_url_project_02.domain.surl.entity.Surl;
+import com.koreait.short_url_project_02.domain.surl.repository.SurlRepository;
 import com.koreait.short_url_project_02.global.rsData.RsData;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

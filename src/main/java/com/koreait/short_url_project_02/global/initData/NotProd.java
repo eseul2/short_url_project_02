@@ -1,9 +1,9 @@
 package com.koreait.short_url_project_02.global.initData;
 
-import com.koreait.short_url_project_02.domain.article.article.entity.Article;
-import com.koreait.short_url_project_02.domain.article.article.service.ArticleService;
-import com.koreait.short_url_project_02.domain.member.member.entity.Member;
-import com.koreait.short_url_project_02.domain.member.member.service.MemberService;
+import com.koreait.short_url_project_02.domain.article.entity.Article;
+import com.koreait.short_url_project_02.domain.article.service.ArticleService;
+import com.koreait.short_url_project_02.domain.member.entity.Member;
+import com.koreait.short_url_project_02.domain.member.service.MemberService;
 import jakarta.transaction.Transactional;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
